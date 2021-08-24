@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cc
+=======
+ccc 
+>>>>>>> parent of abf98c3 (Revert "new c.txt revert")
